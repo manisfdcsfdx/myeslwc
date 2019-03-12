@@ -3,6 +3,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Contact.Reservation_Status__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Market__c.City__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -103,7 +108,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Space__c.Pictture_URL__c</field>
+        <field>Space__c.Picture_URL__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -122,6 +127,9 @@
         <readable>false</readable>
     </fieldPermissions>
     <layoutAssignments>
+        <layout>Contact-Contact %28Marketing%29 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Market__c-Market Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -130,6 +138,18 @@
     <layoutAssignments>
         <layout>Space__c-Space Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>Market__c</tab>
+        <visibility>DefaultOff</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Reservation__c</tab>
+        <visibility>DefaultOff</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>Space__c</tab>
+        <visibility>DefaultOff</visibility>
+    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>

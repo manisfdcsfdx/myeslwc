@@ -32,10 +32,6 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Pictture_URL__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
                 <field>Predicted_Booking_Rate__c</field>
             </layoutItems>
             <layoutItems>
@@ -45,6 +41,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Type__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Picture_URL__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>
