@@ -1,0 +1,753 @@
+[
+    [
+        "C:\\Projects\\myeslwc\\force-app",
+        {
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552359963798,
+            "changeTime": 1552359963798,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main",
+        {
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552359963799,
+            "changeTime": 1552359963799,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188648,
+            "changeTime": 1552362188648,
+            "contentHash": "d92ea674da6e1e04a34c5d56a8c81277b9110b4b"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552359963802,
+            "changeTime": 1552359963802,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552360433469,
+            "changeTime": 1552360433469,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc",
+        {
+            "sourcePath": "C:\\Projects\\myeslwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552360419834,
+            "changeTime": 1552360419834,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6383,
+            "modifiedTime": 1552362188286,
+            "changeTime": 1552362188286,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\Country.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1338,
+            "modifiedTime": 1552362188304,
+            "changeTime": 1552362188304,
+            "contentHash": "3c08782ca82cca4fd7569a2c23f00bce6623f3d4"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\Types.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1674,
+            "modifiedTime": 1552362188311,
+            "changeTime": 1552362188311,
+            "contentHash": "58a1c45334a960cadae731a62b77b3d5373a77ff"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\Reservation_Status.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1057,
+            "modifiedTime": 1552362188318,
+            "changeTime": 1552362188318,
+            "contentHash": "3aa241b76a0d6514e3ef171b93b8e70f35436728"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets\\State.globalValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6586,
+            "modifiedTime": 1552362188336,
+            "changeTime": 1552362188336,
+            "contentHash": "6d5d4850463067e500554c4ffa8a242ef828b26e"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\Market__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2057,
+            "modifiedTime": 1552362188380,
+            "changeTime": 1552362188380,
+            "contentHash": "d8e2e5f9bfbb88047ec5012f0424ef36072a7c78"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 353,
+            "modifiedTime": 1552362188392,
+            "changeTime": 1552362188392,
+            "contentHash": "bd2781c468a9118e799e2d378a4ef05c9d456af0"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 426,
+            "modifiedTime": 1552362188396,
+            "changeTime": 1552362188396,
+            "contentHash": "561c003c858bdc8fa71c66b84bd96261262f1944"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 417,
+            "modifiedTime": 1552362188399,
+            "changeTime": 1552362188399,
+            "contentHash": "88fa690a98e3683b740d7f79b594181f30a552b2"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1552362188403,
+            "changeTime": 1552362188403,
+            "contentHash": "7a2e1dbae96d94eeac560f7016ec9843310b274b"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields\\Total_Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1552362188406,
+            "changeTime": 1552362188406,
+            "contentHash": "3dbc0bcadda8cd6511e48602b4ebb98e5897a4e8"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\Reservation__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2072,
+            "modifiedTime": 1552362188442,
+            "changeTime": 1552362188442,
+            "contentHash": "d1c6e6181eb16f3823d5fca2e0d451467f9c2029"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1552362188451,
+            "changeTime": 1552362188451,
+            "contentHash": "77aaf78e2c33de8b0fc83adcaa3ea7b16d6395e9"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Contact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1552362188454,
+            "changeTime": 1552362188454,
+            "contentHash": "07cab8f69aeadce57b20e06b41beb7ceb67efb2f"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1552362188459,
+            "changeTime": 1552362188459,
+            "contentHash": "83d80bad38c843340220b6d299c2d8ebe5179eb5"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 310,
+            "modifiedTime": 1552362188460,
+            "changeTime": 1552362188460,
+            "contentHash": "b4d2b74ca80ef9dbf8ce2cb2acd57a6d2da90160"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Lead__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 499,
+            "modifiedTime": 1552362188463,
+            "changeTime": 1552362188463,
+            "contentHash": "b7316963393c9c622926d97c4cf3d98850e2e585"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 508,
+            "modifiedTime": 1552362188466,
+            "changeTime": 1552362188466,
+            "contentHash": "6eb275c088bb8524fff0df1a5d8a1f1220faffaa"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Space__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 505,
+            "modifiedTime": 1552362188468,
+            "changeTime": 1552362188468,
+            "contentHash": "624c04579fabd4bdc75f4e9305bd6cbd442333ae"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1552362188471,
+            "changeTime": 1552362188471,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1552362188474,
+            "changeTime": 1552362188474,
+            "contentHash": "bc9df585a8dbacbf322e07be00b726f3f0da2e0b"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 435,
+            "modifiedTime": 1552362188477,
+            "changeTime": 1552362188477,
+            "contentHash": "03aef4bdf2cdc759d565e3ce021db84dffe9f0f6"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_Of_Guests__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields\\Total_Number_Of_Guests__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 418,
+            "modifiedTime": 1552362188479,
+            "changeTime": 1552362188479,
+            "contentHash": "e5b7188571063268e36ae5d225291360a253aa17"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\Space__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2063,
+            "modifiedTime": 1552362188534,
+            "changeTime": 1552362188534,
+            "contentHash": "1223e889b00423732a9aae0d73299392d3b6f4f8"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2331,
+            "modifiedTime": 1552362188557,
+            "changeTime": 1552362188557,
+            "contentHash": "d9d9a60538bd3a49f28a16dc7651d0d36b174aed"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Daily_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1552362188563,
+            "changeTime": 1552362188563,
+            "contentHash": "60783813b4462947e771268f053c0ba4d7cc59e6"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Market__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 591,
+            "modifiedTime": 1552362188566,
+            "changeTime": 1552362188566,
+            "contentHash": "91f2ddaf78c9cc4d9e1272ed7e9d343d041f3ecb"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Maximum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1552362188569,
+            "changeTime": 1552362188569,
+            "contentHash": "0003ce9322a3cf36acfd4cca2892187a69458481"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Minimum_Capacity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 406,
+            "modifiedTime": 1552362188573,
+            "changeTime": 1552362188573,
+            "contentHash": "dccb9f564846052f7c866b5b17e742d32917db01"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Pictture_URL__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Pictture_URL__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 317,
+            "modifiedTime": 1552362188575,
+            "changeTime": 1552362188575,
+            "contentHash": "0141701c160a7e1e10c29c8295a30d1e8cbaf313"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Booking_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 393,
+            "modifiedTime": 1552362188577,
+            "changeTime": 1552362188577,
+            "contentHash": "2bf090ea4eae28d07888e797a6cdda9c16d04c8f"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Predicted_Demand__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1552362188580,
+            "changeTime": 1552362188580,
+            "contentHash": "abead2eca2b72acea9a0283fdf312b7c12449b8b"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 464,
+            "modifiedTime": 1552362188582,
+            "changeTime": 1552362188582,
+            "contentHash": "92d0f766367ae725fc3d113a8e68c26996f2add9"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts\\Reservation__c-Reservation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3470,
+            "modifiedTime": 1552362188614,
+            "changeTime": 1552362188614,
+            "contentHash": "8bb1193b2039ffd223736ac07301b00a71374c67"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts\\Market__c-Market Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2915,
+            "modifiedTime": 1552362188621,
+            "changeTime": 1552362188621,
+            "contentHash": "245c91c938b8e1ecefd265b3c41b9ee1e32b6cab"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts\\Space__c-Space Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3209,
+            "modifiedTime": 1552362188630,
+            "changeTime": 1552362188630,
+            "contentHash": "15bda4d90a592445ebea4b5850add5f5e9f05c4b"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8754,
+            "modifiedTime": 1552362188656,
+            "changeTime": 1552362188656,
+            "contentHash": "899e91354d5635f81d12ed83aebe4dc71c6883a8"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 23852,
+            "modifiedTime": 1552362188707,
+            "changeTime": 1552362188707,
+            "contentHash": "e015eadf50f5644dde13ef1ee1b16b9ebc1d6ab2"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9092,
+            "modifiedTime": 1552362188748,
+            "changeTime": 1552362188748,
+            "contentHash": "4fb87a52b0a8f748e85de920307ae0138b502bc1"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8754,
+            "modifiedTime": 1552362188766,
+            "changeTime": 1552362188766,
+            "contentHash": "899e91354d5635f81d12ed83aebe4dc71c6883a8"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188281,
+            "changeTime": 1552362188281,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\globalValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188334,
+            "changeTime": 1552362188334,
+            "contentHash": "5b31846d56ec02084c8bf1954d93dae03cd28e9e"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188381,
+            "changeTime": 1552362188381,
+            "contentHash": "fce16bb6dfc4f3975520570ad9148bc6d7eb00e9"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188525,
+            "changeTime": 1552362188525,
+            "contentHash": "f1c8aa871dc27a9e0962fafe5e2f2c5ed39b6770"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Market__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188405,
+            "changeTime": 1552362188405,
+            "contentHash": "ea6054a9e1031875c634e5b4a0eb7985390e0551"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188444,
+            "changeTime": 1552362188444,
+            "contentHash": "68bf80eb1f3569d9845ee84c883977cebb5d3b6d"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Reservation__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188478,
+            "changeTime": 1552362188478,
+            "contentHash": "e2b21c4656879d0006a2b573971e7ffc9a9ba3d9"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188536,
+            "changeTime": 1552362188536,
+            "contentHash": "6c1bd86a2543f768e375b276ac1654663547c5c4"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\objects\\Space__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188581,
+            "changeTime": 1552362188581,
+            "contentHash": "55bd9f985c4d4f95156e014a9c6579798ffb8607"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188629,
+            "changeTime": 1552362188629,
+            "contentHash": "b580070a23aa32c6dba40b007ca09b275a2ea774"
+        }
+    ],
+    [
+        "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Projects\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552362188765,
+            "changeTime": 1552362188765,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
